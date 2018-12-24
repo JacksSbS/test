@@ -1,3 +1,7 @@
 print ("hello world:")
 print ("hello пыщь пыщь:")
 print ("hello:")
+print ("hello my dear friends:")
+print ("Glad to see you:::")
+
+
